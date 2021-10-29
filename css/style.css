@@ -181,7 +181,6 @@ body{
       position: sticky;
       top: 0;
       z-index: 1;
-      scroll-margin-top: 1em;
     }
 
     .nav_links {
